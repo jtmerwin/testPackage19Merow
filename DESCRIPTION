@@ -1,0 +1,13 @@
+Package: testPackageMerwin19
+Title: Temp Converters For Testing
+Version: 0.1.0
+Author: as.person(c(
+  "Jon Merwin <jmerwin@amnh.org> [aut, cre]""))
+Maintainer: Send inquiries to <jmerwin@amnh.org>
+Description: This is a description of the converter package, which converts things and also serves as a test of my skills making a package.
+License: GPL-3
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 6.1.1
+Imports:
+Suggests:
